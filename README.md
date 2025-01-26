@@ -23,7 +23,7 @@ This repository contains an assignment designed to assist claim adjudicators in 
   - Basic EDA results
   - Descriptive statistics
   - Visualization of factors influencing premium prices  
-  **[Tableau Link](#)** (Insert the Tableau public/shared link here)
+  **[[Tableau Link](https://public.tableau.com/app/profile/gowtham.balachandhiran/viz/PremiumPriceInsurance/PremiumPriceDescriptives)](#)** (Insert the Tableau public/shared link here)
 
 ---
 
