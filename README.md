@@ -25,6 +25,9 @@ This repository contains an assignment designed to assist claim adjudicators in 
   - Visualization of factors influencing premium prices  
   **[[Tableau Link](https://public.tableau.com/app/profile/gowtham.balachandhiran/viz/PremiumPriceInsurance/PremiumPriceDescriptives)](#)** (Insert the Tableau public/shared link here)
 
+    ![image](https://github.com/user-attachments/assets/974c5ef4-8514-49f5-bc54-f78e0d86e1b5)
+
+
 ---
 
 ## **How to Use**
