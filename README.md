@@ -74,9 +74,12 @@ Factors influencing premium prices and their visual representations.
 Please give a good read on various steps followed in building the solution using the following medium link
 https://medium.com/@gowthambalachandhiran/premium-price-prediction-using-patient-risk-factors-6cee990fa043
 
+## Video explanation
+
+https://drive.google.com/file/d/1gbL-LZh9KV6royaTDHwJMQ4zLpAP_6O-/view?usp=drive_link
 
 ## Future Enhancements
-Integration of additional risk factors for enhanced prediction accuracy.
+Integration of additional risk factors for enhanced prediction nearness of premium price.
 Support for more advanced ML models (e.g., deep learning).
 Real-time data updates for dynamic predictions.
 Enhanced visualizations with geographical and temporal trends.
