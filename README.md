@@ -17,6 +17,8 @@ This repository contains an assignment designed to assist claim adjudicators in 
 
 - **`app.py`**  
   A Streamlit web application that takes user inputs (e.g., demographic details, risk factors) and predicts the premium price in real-time.
+  Go to project folder
+  - run the following command in command line "streamlit run app.py"
 
 - **Tableau Dashboard**  
   A set of dashboards showcasing:
