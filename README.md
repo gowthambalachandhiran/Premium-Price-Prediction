@@ -68,6 +68,10 @@ This repository contains an assignment designed to assist claim adjudicators in 
 Comprehensive Tableau dashboards for data insights.
 Factors influencing premium prices and their visual representations.
 
+## Blog about the whole solution
+Please give a good read on various steps followed in building the solution using the following medium link
+https://medium.com/@gowthambalachandhiran/premium-price-prediction-using-patient-risk-factors-6cee990fa043
+
 
 ## Future Enhancements
 Integration of additional risk factors for enhanced prediction accuracy.
